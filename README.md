@@ -20,7 +20,7 @@ Ensure you have Docker and Docker Compose installed on your machine.
 2. Clone & Configure
 # Clone the repository
   ```sh
-  git clone https://github.com/olex2211/Travel-Planner/
+  git clone https://github.com/olex2211/Travel-Planner.git
   ```
 
 **Set up environment variables**
