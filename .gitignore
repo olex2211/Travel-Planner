@@ -1,0 +1,27 @@
+__pycache__/
+env/
+venv/
+.venv/
+
+db.sqlite3
+media/
+staticfiles/
+*.log
+
+.env
+.venv
+env/
+venv/
+
+.docker
+
+.vscode/
+.idea/
+*.swp
+*.bak
+*.sublime-project
+*.sublime-workspace
+.DS_Store (Mac)
+
+tmp/
+temp/
